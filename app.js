@@ -1,5 +1,5 @@
 L.mapbox.accessToken =
-"pk.eyJ1IjoiamFtYWxzaGFoNTExMTk5NiIsImEiOiJja296czJwaXkwOGh0MnBwa2VvcWJ3MzU5In0.VID7WALLL4JrGAp3GIS0SA";
+"";
 var map = L.mapbox.map("map").setView([54.447241,-115.805657], 15);
 
 L.control
